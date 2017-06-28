@@ -16,7 +16,7 @@ To ensure a productive, open, vibrant community, here are a few ground rules:
 
 1. Be considerate
 
-   We depend on the a variety of opinions and ideas to innovate. This is an open environment, openness breeds innovation, be open.
+   We depend on the a variety of opinions and ideas to innovate. This is an open environment, be respectful of others’ ideas, even if you disagree with them.
 
 2. Experiment
 
