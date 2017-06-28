@@ -2,7 +2,7 @@
 
 Welcome to the Pop\!\_OS community, we’re excited for your input!
 
-Pop\!\_OS is in its infancy and warmly welcomes all ideas. Let’s foster collaboration, and actively seek participation from everyone here with an understanding that we all want to make Pop\!\_OS awesome.
+Pop\!\_OS is in its infancy and warmly welcomes all ideas. Let’s foster collaboration, and actively seek participation from everyone involved with an understanding that we all want to make Pop\!\_OS awesome.
 
 Both the development of the OS and the process it entails are to remain open, agile, and contributor-friendly - this includes the:
 - Code of conduct
